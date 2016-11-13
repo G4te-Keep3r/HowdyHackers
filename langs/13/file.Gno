@@ -1,1 +1,0 @@
-GNO " Howdy Hackers "

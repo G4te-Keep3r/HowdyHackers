@@ -1,1 +1,0 @@
-APL " Howdy Hackers "

@@ -1,1 +1,0 @@
-LID " Howdy Hackers "

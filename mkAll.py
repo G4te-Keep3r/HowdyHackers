@@ -29,11 +29,11 @@ def nextStatement(statement, i): #called with the index to change. start at len(
 
 def makeLang(s, dirNum):
 	#lang file
-	with open('langs/'+dirNum+'/file.'+s, 'w+') as lw:
+	with open('langs/'+dirNum+'/file.'+s+'', 'w+') as lw:
 		#a " Howdy Hackers "
 		lw.write(s+' " Howdy Hackers "')
 	#interpreter file
-	with open('langs/'+dirNum+'/i_'+s+'.py', 'w+') as iw:
+	with open('langs/'+dirNum+'/'+s+'.py', 'w+') as iw:
 		#interpreter
 		for line in pt1:
 			iw.write(line)
@@ -48,13 +48,13 @@ def main():
 	#s = nextStatement(s, len(s)-1) #go to next
 	dirCounter = 0
 	os.makedirs('/mnt/hgfs/HowdyHackers/langs/'+str(0))
-	while 1:
+	for i in range(1000*100):
 		#print s
 		makeLang(s, str(dirCounter))
 		s = nextStatement(s, len(s)-1)
 		count += 1
 		if count % (1000*10) == 0:
-			print "{:,}".format(count/(1000*10)), '*10 k'
+			print "{:,}".format(count/(1000*10)), '10k'
 			dirCounter += 1
 			os.makedirs('/mnt/hgfs/HowdyHackers/langs/'+str(dirCounter))
 

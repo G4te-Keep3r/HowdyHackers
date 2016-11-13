@@ -1,1 +1,0 @@
-F03 " Howdy Hackers "

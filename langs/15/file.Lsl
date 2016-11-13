@@ -1,1 +1,0 @@
-LSL " Howdy Hackers "

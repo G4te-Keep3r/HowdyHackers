@@ -1,1 +1,0 @@
-KTS " Howdy Hackers "

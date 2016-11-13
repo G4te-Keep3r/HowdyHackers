@@ -1,1 +1,0 @@
-FRT " Howdy Hackers "

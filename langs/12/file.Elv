@@ -1,1 +1,0 @@
-ELV " Howdy Hackers "

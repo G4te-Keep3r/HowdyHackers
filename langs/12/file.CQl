@@ -1,1 +1,0 @@
-CQL " Howdy Hackers "

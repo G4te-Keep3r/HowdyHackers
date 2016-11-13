@@ -1,1 +1,0 @@
-CPY " Howdy Hackers "

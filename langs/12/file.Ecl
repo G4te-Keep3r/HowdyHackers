@@ -1,1 +1,0 @@
-ECL " Howdy Hackers "

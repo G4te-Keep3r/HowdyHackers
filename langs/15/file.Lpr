@@ -1,1 +1,0 @@
-LPR " Howdy Hackers "

@@ -1,1 +1,0 @@
-ALS " Howdy Hackers "

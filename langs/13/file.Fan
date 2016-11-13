@@ -1,1 +1,0 @@
-FAN " Howdy Hackers "

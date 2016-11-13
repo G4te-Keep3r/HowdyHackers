@@ -1,1 +1,0 @@
-HQF " Howdy Hackers "

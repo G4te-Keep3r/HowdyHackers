@@ -1,1 +1,0 @@
-xQL " Howdy Hackers "

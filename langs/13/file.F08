@@ -1,1 +1,0 @@
-F08 " Howdy Hackers "

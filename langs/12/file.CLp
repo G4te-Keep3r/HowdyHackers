@@ -1,1 +1,0 @@
-CLP " Howdy Hackers "

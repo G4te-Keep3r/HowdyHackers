@@ -1,1 +1,0 @@
-CoQ " Howdy Hackers "
