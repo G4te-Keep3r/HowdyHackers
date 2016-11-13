@@ -1,0 +1,8 @@
+':
+				printFunction(data[1:])
+			else:
+				print 'ERROR'
+				return
+
+if __name__ == '__main__':
+	main(sys.argv[1])
